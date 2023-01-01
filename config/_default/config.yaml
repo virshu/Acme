@@ -1,0 +1,5 @@
+baseURL: http://www.rabinovich.org/
+languageCode: en-us
+title: Digital Elasticity
+theme: Eclectic
+enableEmoji: true
