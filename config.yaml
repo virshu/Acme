@@ -1,4 +1,4 @@
-baseURL: http://www.digitalelasticity.info/
+baseURL: http://www.rabinovich.org/
 languageCode: en-us
 title: Digital Elasticity
 theme: Eclectic
@@ -23,8 +23,7 @@ menu:
       weight: 200                              
 params:                                        
   color: "#4f46e5" 
-  copyright: "Copyright &copy; 2022 Acme Corporation. 
-    All Rights Reserved." 
+  copyright: "Copyright &copy; 2023 Digital Elasticity. All Rights Reserved." 
   footer: 
     - title: About 
       content:  > 
