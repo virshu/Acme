@@ -6,4 +6,10 @@ main:
   - identifier: contact
     name: Contact Us
     url: /contact                            
-    weight: 200                              
+    weight: 200
+  - identifier: blog
+    name: Blog
+    url: /blog
+  - identifier: news
+    name: News
+    url: /news

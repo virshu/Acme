@@ -16,4 +16,6 @@
       recentCount: 7 
     - title: Contact Us 
       contact: true 
+    - title: Important Links
+      menu: true
       
