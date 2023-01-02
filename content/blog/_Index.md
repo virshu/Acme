@@ -1,7 +1,7 @@
 ---
 menu: 
   main: 
-    name: Blog 
+    name: Blog
     identifier: blog 
     weight: 110 
   footer: 
