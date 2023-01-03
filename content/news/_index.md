@@ -4,7 +4,6 @@ menu:
     name: News 
     identifier: news 
     weight: 120 
-  footer: 
-    name: News
-    weight: 100 
 --- 
+![News](news.png){style="text-align: center"}
+------------
